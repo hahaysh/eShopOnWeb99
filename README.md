@@ -1,6 +1,4 @@
-[![Build Status](https://github.com/hahaysh/eShopOnWeb99/workflows/eShopOnWeb Build and Test/badge.svg)](https://github.com/hahaysh/eShopOnWeb20250320/actions)
-
-
+[![.github/workflows/dotnetcore.yml](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/dotnetcore.yml/badge.svg)](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/dotnetcore.yml)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
