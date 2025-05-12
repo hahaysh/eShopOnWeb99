@@ -1,4 +1,6 @@
-[![Build Status](https://github.com/hahaysh/eShopOnWeb99/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
+[![Build Status](https://github.com/hahaysh/eShopOnWeb99/workflows/eShopOnWeb Build and Test/badge.svg)](https://github.com/hahaysh/eShopOnWeb99/actions)
+
+
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
