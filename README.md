@@ -1,4 +1,6 @@
-[![.github/workflows/dotnetcore.yml](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/dotnetcore.yml/badge.svg)](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/dotnetcore.yml)
+
+
+[![eshoponweb-cicd](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/eshoponweb-cicd.yml/badge.svg)](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/eshoponweb-cicd.yml)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
