@@ -1,4 +1,4 @@
-
+[![eshoponweb-cicd](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/eshoponweb-cicd.yml/badge.svg)](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/eshoponweb-cicd.yml)
 
 [![eshoponweb-cicd](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/eshoponweb-cicd.yml/badge.svg)](https://github.com/hahaysh/eShopOnWeb99/actions/workflows/eshoponweb-cicd.yml)
 
